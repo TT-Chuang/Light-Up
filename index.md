@@ -1,4 +1,4 @@
-## Light UP
+## Light Up
 ## TEST TEST TEST
 
 You can use the [editor on GitHub](https://github.com/TT-Chuang/Light-Up/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
